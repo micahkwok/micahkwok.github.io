@@ -14,7 +14,7 @@ Seeing this, I thought it’d be a good time to teach or remind people of what a
 We’ll use COVID-19 detection tests to learn about this concept of false positives and false negatives, but before that let’s take a step back.
 Let’s simply consider how we can measure a test. In its simplest form, a test can either be right or wrong. Whether the test is right, depends on if the test result matches if the has COVID-19 or not. So this means, there are actually two ways for a test to be right and two ways for a test to be wrong, leading us to have this nice little table below.
 
-![matrix](images/FP_matrix.png)
+![matrix](../images/FP_matrix.png)
 
 It may look a bit confusing at first but we’ll go through these results individually.
 
